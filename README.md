@@ -3,7 +3,7 @@
 *ID:* CT6WDS551
 *Domain:* C++ PROGARMMING
 *Duration:* 20 July 2024 to 05 August 2024( 6 Weeks)
-*Mentor:* NEELA SANTOSH KUMAR
+*Mentor:* NEELA SANTHOSH KUMAR
 
 
 
